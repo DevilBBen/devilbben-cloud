@@ -1,0 +1,10 @@
+spring:
+  ai:
+    openai:
+      api-key:
+      base-url:
+
+
+      chat:
+        api-key:
+        base-url: gbv

@@ -1,0 +1,20 @@
+#spring:
+#  ai:
+#    dashscope:
+#      api-key:
+#      agent:
+#        api-key:
+spring:
+  application:
+    name: devilbben-ai
+  ai:
+#    openai:
+#      api-key: jll
+#      base-url: adf
+
+    dashscope:
+      base-url:
+
+
+
+
